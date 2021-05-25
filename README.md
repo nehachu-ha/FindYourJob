@@ -1,5 +1,6 @@
-# FindYourJob
-##Используются технологии:
--HTML
--CSS
--Bootstrap v5
+# FindYourJob - учебный проект GLO Academy
+
+## Используются технологии:
+- HTML
+- CSS
+- Bootstrap v5
